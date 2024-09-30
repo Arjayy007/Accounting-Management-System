@@ -162,7 +162,7 @@ public class Registration extends javax.swing.JFrame {
 
         jPanel2.setBackground(new java.awt.Color(255, 255, 255));
 
-        jLabel5.setFont(new java.awt.Font("Segoe UI", 1, 30)); // NOI18N
+        jLabel5.setFont(new java.awt.Font("Segoe UI", 1, 29)); // NOI18N
         jLabel5.setText("Accounting Management");
 
         jLabel7.setFont(new java.awt.Font("Segoe UI", 1, 30)); // NOI18N
@@ -190,7 +190,7 @@ public class Registration extends javax.swing.JFrame {
                     .addGroup(jPanel2Layout.createSequentialGroup()
                         .addGap(58, 58, 58)
                         .addComponent(jLabel2)))
-                .addContainerGap(49, Short.MAX_VALUE))
+                .addContainerGap(58, Short.MAX_VALUE))
         );
         jPanel2Layout.setVerticalGroup(
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
